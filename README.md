@@ -15,6 +15,6 @@ The React BoxOffice App is a dynamic web application that provides users with th
 - **CSS/Styled-Components**: For styling the application.
 - **Third-Party API**: Integrated with an external API to fetch movie data.
 
-<img src="MOVIE_2" alt="" width="1000">
-<img src="MOVIE_3" alt="" width="1000">
-<img src="MOVIE_1" alt="" width="1000">
+<img src="MOVIE_2.png" alt="" width="1000">
+<img src="MOVIE_3.png" alt="" width="1000">
+<img src="MOVIE_1.png" alt="" width="1000">
