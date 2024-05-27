@@ -18,3 +18,5 @@ The React BoxOffice App is a dynamic web application that provides users with th
 <img src="MOVIE_2.png" alt="" width="1000">
 <img src="MOVIE_3.png" alt="" width="1000">
 <img src="MOVIE_1.png" alt="" width="1000">
+<img src="MOVIE_4.png" alt="" width="1000">
+<img src="MOVIE_5.png" alt="" width="1000">
