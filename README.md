@@ -14,3 +14,7 @@ The React BoxOffice App is a dynamic web application that provides users with th
 - **Axios**: Promise-based HTTP client for making API requests.
 - **CSS/Styled-Components**: For styling the application.
 - **Third-Party API**: Integrated with an external API to fetch movie data.
+
+<img src="./uml.jfif" alt="" width="1000">
+<img src="./admin.jfif" alt="" width="1000">
+<img src="./client.jfif" alt="" width="1000">
